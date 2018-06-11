@@ -14,7 +14,7 @@ export default {
 <style>
 #app {
   display: flex;
-  margin-top: 60px;
+  margin-top: 30px;
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   color: #2c3e50;
   text-align: center;
