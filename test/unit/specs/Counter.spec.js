@@ -6,6 +6,6 @@ describe('Counter.vue', () => {
     const Constructor = Vue.extend(Counter)
     const vm = new Constructor().$mount()
     expect(vm.$el.querySelector('button').textContent)
-      .to.equal('increment')
+      .to.equal('increment1')
   })
 })
